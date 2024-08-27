@@ -1,0 +1,9 @@
+{
+    "bump-minor-pre-major": true,
+    "release-type": "terraform-module",
+    "packages": {
+        ".": {
+            "include-component-in-tag": false
+        }
+    }
+}
